@@ -1,0 +1,115 @@
+Topic: 
+NeuralNetworks
+1. What is a neural network?
+	a, A type of computer program that can learn to recognize patterns in data
+	b, A network of neurons in the human brain
+	c, A type of computer virus
+	d, A type of computer hardware
+2. Which of the following is not a common type of neural network?
+	a, Convolutional neural network
+	b, Recurrent neural network
+	c, Artificial neural network
+	d, Support vector network
+3. What is the term for the process of adjusting the weights of a neural network during training?
+	a, Backpropagation
+	b, Feedforward
+	c, Gradient descent
+	d, Stochastic optimization
+4. Which of the following is not a common activation function used in neural networks?
+	a, Sigmoid
+	b, ReLU
+	c, Tanh
+	d, Pi
+5. Which of the following is not a layer commonly found in a neural network?
+	a, Input layer
+	b, Output layer
+	c, Hidden layer
+	d, Processing layer
+
+
+Topic: 
+DeepLearningAlgorithms
+6. Which of the following is not a deep learning algorithm?
+	a, Support vector machine
+	b, Convolutional neural network
+	c, Recurrent neural network
+	d, Generative adversarial network
+7. What is the term for the process of generating new data from an existing data set?
+	a, Regression
+	b, Classification
+	c, Clustering
+	d, Data augmentation
+8. Which of the following is not a common task performed by deep learning algorithms?
+	a, Image recognition
+	b, Natural language processing
+	c, Speech recognition
+	d, Financial analysis
+9. What is the term for the process of training a deep learning algorithm on one task and then applying it to a different but related task?
+	a, Transfer learning
+	b, Multi-task learning
+	c, Active learning
+	d, Unsupervised learning
+10. Which of the following is not a type of deep learning architecture?
+	a, Feedforward neural network
+	b, Convolutional neural network
+	c, Recurrent neural network
+	d, Decision tree
+
+
+Topic: 
+OptimizationandRegularization
+11. Which of the following is not a common optimizer used in deep learning?
+	a, Gradient descent
+	b, Stochastic gradient descent
+	c, Adam
+	d, Support vector machine
+12. What is the term for the process of preventing overfitting in a deep learning model?
+	a, Regularization
+	b, Optimization
+	c, Augmentation
+	d, Normalization
+13. Which of the following is not a type of regularization commonly used in deep learning?
+	a, L1 regularization
+	b, L2 regularization
+	c, Dropout regularization
+	d, Random regularization
+14. Which of the following is not a common metric used to evaluate a deep learning model?
+	a, Accuracy
+	b, Precision
+	c, Recall
+	d, Length
+15. Which of the following is not a common loss function used in deep learning?
+	a, Mean squared error
+	b, Cross-entropy
+	c, L2 norm
+	d, Softmax
+
+
+Topic: 
+ApplicationsofDeepLearning
+16. Which of the following is not an application of deep learning?
+	a, Image recognition
+	b, Natural language processing
+	c, Speech recognition
+	d, Rocket science
+17. Which of the following is not a common application of convolutional neural networks?
+	a, Image recognition
+	b, Object detection
+	c, Text classification
+	d, Facial recognition
+18. Which of the following is not a common application of recurrent neural networks?
+	a, Speech recognition
+	b, Language translation
+	c, Time series analysis
+	d, Image classification
+19. Which of the following is not a common application of deep learning?
+	a, Image recognition
+	b, Natural language processing
+	c, Speech recognition
+	d, Financial analysis
+20. Which of the following is not a type of neural network commonly used in deep learning?
+	a, Convolutional neural network
+	b, Recurrent neural network
+	c, Feedforward neural network
+	d, Gaussian neural network
+

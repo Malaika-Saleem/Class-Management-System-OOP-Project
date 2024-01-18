@@ -1,0 +1,115 @@
+Topic: 
+DataCollection
+1. Which of the following is not a common method for collecting data in big data analytics?
+	a, Surveys
+	b, Social media monitoring
+	c, Interviews
+	d, Random sampling
+2. Which of the following is not a characteristic of big data?
+	a, Volume
+	b, Variety
+	c, Veracity
+	d, Viscosity
+3. What is the term for the process of extracting useful information from unstructured or semi-structured data?
+	a, Data warehousing
+	b, Data mining
+	c, Data cleaning
+	d, Data visualization
+4. Which of the following is not a source of big data?
+	a, Social media
+	b, Online transactions
+	c, Weather sensors
+	d, Books
+5. Which of the following is not a data format commonly used in big data analytics?
+	a, JSON
+	b, CSV
+	c, XML
+	d, MP3
+
+
+Topic: 
+DataStorageandManagement
+6. Which of the following is not a type of database commonly used in big data analytics?
+	a, Relational database
+	b, NoSQL database
+	c, Object-oriented database
+	d, Hierarchical database
+7. What is the term for the process of breaking up a large data set into smaller, more manageable pieces?
+	a, Data cleaning
+	b, Data mining
+	c, Data partitioning
+	d, Data modeling
+8. Which of the following is not a characteristic of distributed computing systems used in big data analytics?
+	a, Scalability
+	b, Fault tolerance
+	c, Centralized processing
+	d, Parallel processing
+9. What is the term for the process of transforming and preparing data for analysis?
+	a, Data warehousing
+	b, Data mining
+	c, Data cleaning
+	d, Data visualization
+10. Which of the following is not a factor to consider when selecting a storage system for big data?
+	a, Cost
+	b, Scalability
+	c, Security
+	d, Color
+
+
+Topic: 
+DataAnalysis
+11. Which of the following is not a type of data analysis commonly used in big data analytics?
+	a, Descriptive analytics
+	b, Predictive analytics
+	c, Prescriptive analytics
+	d, Inquisitive analytics
+12. What is the term for the process of identifying patterns and relationships in data?
+	a, Data warehousing
+	b, Data mining
+	c, Data cleaning
+	d, Data visualization
+13. Which of the following is not a tool commonly used for data analysis in big data analytics?
+	a, Hadoop
+	b, Spark
+	c, Excel
+	d, Tableau
+14. Which of the following is not a type of machine learning commonly used in big data analytics?
+	a, Supervised learning
+	b, Unsupervised learning
+	c, Reinforcement learning
+	d, Assisted learning
+15. Which of the following is not a metric commonly used for evaluating a machine learning model?
+	a, Accuracy
+	b, Precision
+	c, Recall
+	d, Length
+
+
+Topic: 
+DataVisualization
+16. Which of the following is not a reason for using data visualization in big data analytics?
+	a, To communicate insights more effectively
+	b, To identify patterns and trends
+	c, To present data in an attractive way
+	d, To store and manage data
+17. Which of the following is not a type of data visualization commonly used in big data analytics?
+	a, Scatter plot
+	b, Histogram
+	c, Radar chart
+	d, Waterfall chart
+18. What is the term for the process of creating interactive visualizations in real time?
+	a, Data visualization
+	b, Real-time analytics
+	c, Dynamic reporting
+	d, Stream processing
+19. Which of the following is not a common type of chart used in data visualization?
+	a, Bar chart
+	b, Line chart
+	c, Radar chart
+	d, Circle chart
+20. Which of the following is not a recommended practice for effective data visualization?
+	a, Using appropriate colors and fonts
+	b, Including too much detail and information in a single chart
+	c, Choosing the right type of chart to display the data
+	d, Providing clear and concise labels and annotations.
+

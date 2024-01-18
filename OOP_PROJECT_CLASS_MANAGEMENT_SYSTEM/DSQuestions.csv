@@ -1,0 +1,111 @@
+Topic 1:
+Arrays
+1. What is an array?
+	a, A data structure that stores a collection of elements of the same type
+	b, A type of loop used in programming
+	c, A programming language
+	d, A network of computers
+2. What is the index of the first element in an array?
+	a, 0
+	b, 1
+	c, -1
+	d, It depends on the programming language
+3. What is the time complexity of accessing an element in an array?
+	a, O(1)
+	b, O(n)
+	c, O(log n)
+	d, O(n^2)
+4. What is the time complexity of inserting an element into the middle of an array?
+	a, O(n)
+	b, O(log n)
+	c, O(1)
+	d, It depends on the programming language
+5. What is the time complexity of sorting an array using bubble sort?
+	a, O(n)
+	b, O(n^2)
+	c, O(log n)
+	d, O(n log n)
+
+Topic 2: 
+LinkedLists
+6. What is a linked list?
+	a, A data structure that consists of a sequence of nodes, each containing a reference to the next node in the sequence
+	b, A type of loop used in programming
+	c, A programming language
+	d, A network of computers
+7. What is the time complexity of accessing an element in a linked list?
+	a, O(1)
+	b, O(n)
+	c, O(log n)
+	d, O(n^2)
+8. What is the time complexity of inserting an element into the middle of a linked list?
+	a, O(n)
+	b, O(log n)
+	c, O(1)
+	d, It depends on the programming language
+9. What is the time complexity of deleting an element from the middle of a linked list?
+	a, O(n)
+	b, O(log n)
+	c, O(1)
+	d, It depends on the programming language
+10. What is the time complexity of reversing a linked list?
+	a, O(n)
+	b, O(log n)
+	c, O(1)
+	d, It depends on the programming language
+
+Topic 3: 
+StacksandQueues
+11. What is a stack?
+	a, A data structure that stores a collection of elements, with operations to push and pop elements from the top of the stack
+	b, A type of loop used in programming
+	c, A programming language
+	d, A network of computers
+12. What is a queue?
+	a, A data structure that stores a collection of elements with operations to enqueue elements at the back of the queue and dequeue elements from the front of the queue
+	b, A type of loop used in programming
+	c, A programming language
+	d, A network of computers
+13. What is the time complexity of pushing an element onto a stack?
+	a, O(1)
+	b, O(n)
+	c, O(log n)
+	d, O(n^2)
+14. What is the time complexity of popping an element from a stack?
+	a, O(1)
+	b, O(n)
+	c, O(log n)
+	d, O(n^2)
+15. What is the time complexity of enqueuing an element into a queue?
+	a, O(1)
+	b, O(n)
+	c, O(log n)
+	d, O(n^2)
+
+Topic 4: 
+Trees
+16. What is a binary tree?
+	a, A tree data structure in which each node has at most two children
+	b, A type of loop used in programming
+	c, Both a and b
+	d, None of the above
+17. What is the height of a tree?
+	a, The maximum number of edges in a path from the root to a leaf node
+	b, The minimum number of edges in a path from the root to a leaf node
+	c, The total number of nodes in the tree
+	d, The total number of edges in the tree
+18. What is a binary search tree?
+	a, A binary tree in which the left subtree of a node contains only nodes with keys less than the node's key, and the right subtree contains only nodes with keys greater than the node's key
+	b, A binary tree in which every node has at most two children
+	c, A binary tree in which every level is completely filled
+	d, A binary tree in which every leaf node is at the same level
+19. What is the time complexity of searching for an element in a binary search tree?
+	a, O(n)
+	b, O(log n)
+	c, O(n log n)
+	d, O(1)
+20. What is a balanced tree?
+	a, A tree in which the heights of the left and right subtrees of every node differ by at most 1
+	b, A tree in which every node has at most two children
+	c, A tree in which every level is completely filled
+	d, A tree in which every leaf node is at the same level

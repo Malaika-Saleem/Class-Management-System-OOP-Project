@@ -1,0 +1,114 @@
+Topic: 
+IntroductiontoAI
+1. What is the primary goal of artificial intelligence?
+	a, To replace humans in the workforce
+	b, To create machines that can think and learn like humans
+	c, To automate all human tasks
+	d, To make computers faster and more efficient
+2. Which of the following is not a subfield of artificial intelligence?
+	a, Machine learning
+	b, Natural language processing
+	c, Robotics
+	d, Virtual reality
+3. What is the difference between narrow AI and general AI?
+	a, Narrow AI can perform a specific task, while general AI can perform any task that a human can do.
+	b, Narrow AI is only used in the healthcare industry, while general AI is used in all industries.
+	c, Narrow AI is less advanced than general AI.
+	d, There is no difference between narrow AI and general AI.
+4. Which of the following is not an application of artificial intelligence?
+	a, Speech recognition
+	b, Fraud detection
+	c, Object-oriented programming
+	d, Image recognition
+5. Which of the following is not a challenge facing the development of artificial intelligence?
+	a, The cost of AI technology
+	b, The need for large amounts of data
+	c, Ethical considerations
+	d, The lack of computing power
+
+Topic: 
+MachineLearning
+6. What is the primary goal of supervised learning?
+	a, To discover hidden patterns in data
+	b, To predict a target variable based on input variables
+	c, To learn from experience without being explicitly programmed
+	d, To optimize a function by iteratively adjusting the model's parameters
+7. Which of the following is not a type of supervised learning algorithm?
+	a, Decision trees
+	b, Support vector machines
+	c, Neural networks
+	d, K-means clustering
+8. Which of the following is not a type of unsupervised learning algorithm?
+	a, Principal component analysis
+	b, K-means clustering
+	c, Naive Bayes classification
+	d, Association rule mining
+9. What is the primary goal of reinforcement learning?
+	a, To discover hidden patterns in data
+	b, To predict a target variable based on input variables
+	c, To learn from experience without being explicitly programmed
+	d, To optimize a function by iteratively adjusting the model's parameters
+10. What is overfitting in machine learning?
+	a, When a model is too simple and underperforms on the training data
+	b, When a model is too complex and performs well on the training data but poorly on the testing data
+	c, When a model is too complex and performs well on both the training and testing data
+	d, When a model is too simple and performs well on both the training and testing data
+
+
+Topic: 
+NaturalLanguageProcessing
+11. What is natural language processing?
+	a, The study of human language and how it can be understood by machines
+	b, The study of how machines can learn from experience
+	c, The study of how machines can reason and make decisions
+	d, The study of how machines can perceive their environment
+12. Which of the following is not a task that can be performed using natural language processing?
+	a, Sentiment analysis
+	b, Text summarization
+	c, Image recognition
+	d, Machine translation
+13. What is named entity recognition in natural language processing?
+	a, The process of identifying the sentiment of a text
+	b, The process of identifying the structure of a sentence
+	c, The process of identifying the parts of speech in a sentence
+	d, The process of identifying and classifying named entities in a text
+14. Which of the following is not a type of artificial intelligence?
+	a, Rule-based AI
+	b, Connectionist AI
+	c, Hybrid AI
+	d, Descriptive AI
+15. What is the name for a type of neural network that is designed to recognize visual patterns?
+	a, Recurrent neural network
+	b, Convolutional neural network
+	c, Autoencoder neural network
+	d, Perceptron neural network
+
+
+Topic:
+DataVisualization
+16. What is the name for a type of reinforcement learning that involves training an AI model in a simulated environment?
+	a, Q-learning
+	b, Deep reinforcement learning
+	c, Monte Carlo simulation
+	d, None of the above 
+17. What is the term for the process of translating natural language text into a machine-readable format?
+	a, Machine learning
+	b, Natural language processing
+	c, Data mining
+	d, Neural network
+18. Which of the following is not a task that can be performed by a natural language processing model?
+	a, Sentiment analysis
+	b, Text classification
+	c, Image recognition
+	d, Named entity recognition
+19. What is the term for a type of unsupervised learning that involves finding groups or clusters in a data set?
+	a, Clustering
+	b, Classification
+	c, Regression
+	d, Reinforcement learning
+20. Which of the following is not a characteristic of a good AI model?
+	a, High accuracy
+	b, High interpretability
+	c, Low complexity
+	d, Low computational cost
+

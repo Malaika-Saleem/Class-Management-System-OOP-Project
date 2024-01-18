@@ -1,0 +1,112 @@
+Topic 1: 
+SoftwareRequirements
+1. Which of the following is not a requirement type?
+	a, Functional requirements
+	b, Non-functional requirements
+	c, User requirements
+	d, Design requirements
+2. Which of the following is not a characteristic of a good requirement?
+	a, Complete
+	b, Ambiguous
+	c, Consistent
+	d, Testable
+3. Which of the following is not a technique used for requirements elicitation?
+	a, Brainstorming
+	b, Interviews
+	c, User stories
+	d, Prototyping
+4. Which of the following is not a stakeholder in the software requirements engineering process?
+	a, Developers
+	b, Project managers
+	c, Testers
+	d, All of the above are stakeholders
+5. Which of the following is not a typical format for documenting requirements?
+	a, Use cases
+	b, User stories
+	c, Flowcharts
+	d, Data models
+
+Topic 2: 
+RequirementsAnalysisandSpecification
+6. Which of the following is not a step in requirements analysis?
+	a, Identify stakeholders
+	b, Prioritize requirements
+	c, Validate requirements
+	d, Write code
+7. Which of the following is not a technique used for requirements validation?
+	a, Inspection
+	b, Testing
+	c, Prototyping
+	d, All of the above are used for requirements validation
+8. Which of the following is not a characteristic of a good requirements specification?
+	a, Unambiguous
+	b, Complete
+	c, Consistent
+	d, Verbose
+9. Which of the following is not a technique used for requirements prioritization?
+	a, MoSCoW method
+	b, Kano analysis
+	c, User stories
+	d, Cost-benefit analysis
+10. Which of the following is not a format for presenting requirements to stakeholders?
+	a, Use cases
+	b, User stories
+	c, Requirements traceability matrix
+	d, Entity-relationship diagrams
+
+Topic 3: 
+RequirementsManagement
+11. Which of the following is not a function of requirements management?
+	a, Requirements elicitation
+	b, Requirements analysis
+	c, Requirements prioritization
+	d, Requirements verification
+12. Which of the following is not a tool used for requirements management?
+	a, Issue tracking systems
+	b, Configuration management systems
+	c, Test case management systems
+	d, All of the above are used for requirements management
+13. Which of the following is not a challenge in requirements management?
+	a, Changing requirements
+	b, Communication among stakeholders
+	c, Verification of requirements
+	d, All of the above are challenges in requirements management
+14. Which of the following is not a benefit of good requirements management?
+	a, Improved communication among stakeholders
+	b, Reduced project costs
+	c, Improved software quality
+	d, Increased project risk
+15. Which of the following is not a common cause of requirements-related project failures?
+	a, Poor requirements elicitation
+	b, Incomplete or ambiguous requirements
+	c, Inadequate requirements validation
+	d, All of the above are common causes of requirements-related project failures
+
+Topic 4: 
+RequirementsTraceability
+16. Which of the following is not a type of requirements traceability?
+	a, Forward traceability
+	b, Backward traceability
+	c, Bidirectional traceability
+	d, All of the above are types of requirements traceability
+17. Which of the following is not a benefit of requirements traceability?
+	a, Improved requirements validation
+	b, Improved requirements management
+	c, Improved software quality
+	d, Increased project risk
+18. Which of the following is not a tool used for requirements traceability?
+	a, Requirements management software
+	b, Version control software
+	c, Test case management software
+	d, All of the above are used for requirements traceability
+19. Which of the following is not a step in establishing requirements traceability?
+	a, Identify requirements
+	b, Establish relationships
+	c, Verify requirements
+	d, Write code
+20. Which of the following is not a type of relationship used in requirements traceability?
+	a, Parent-child relationship
+	b, Dependency relationship
+	c, Association relationship
+	d, All of the above are types of relationships used in requirements traceability
+

@@ -1,0 +1,42 @@
+16. What is an array in C++?
+	a, A collection of variables of different data types
+	b, A collection of variables of the same data type
+	c, A function that returns multiple values
+	d, A loop that executes multiple times
+
+
+17. How do you declare an array in C++?
+	a, array x[];
+	b, int x[];
+	c, x = array[];
+	d, array[x];
+
+
+18. What is the index of the first element in an array in C++?
+	a, 0
+	b, 1
+	c, -1
+	d,It depends on the size of the array
+
+
+11. Which of the following is not a part of a function definition in C++?
+	a ,Function name
+	b ,Return type
+	c ,Function body
+	d ,Parameter names
+
+
+12. Which of the following statements is used to call a function in C++?
+	a ,function_name;
+	b ,function_name();
+	c ,call function_name;
+	d ,function_name call;
+
+
+13. Which of the following types of functions does not return any value in C++?
+	a ,void function
+	b ,int function
+	c ,double function
+	d ,char function
+
+

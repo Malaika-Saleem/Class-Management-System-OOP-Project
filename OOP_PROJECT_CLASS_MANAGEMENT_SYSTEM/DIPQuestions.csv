@@ -1,0 +1,114 @@
+Topic: 
+FundamentalsofDigitalImageProcessing
+1. Which of the following is not a characteristic of digital images?
+	a, Resolution
+	b, Color depth
+	c, Contrast
+	d, Sound
+2. Which of the following is not a commonly used image file format?
+	a, JPEG
+	b, PNG
+	c, TIFF
+	d, DOCX
+3. What is the term for the process of converting a continuous image into a digital image?
+	a, Sampling
+	b, Quantization
+	c, Resolution
+	d, Compression
+4. Which of the following is not a type of image enhancement?
+	a, Spatial domain
+	b, Frequency domain
+	c, Color space
+	d, Time domain
+5. Which of the following is not a commonly used image processing application?
+	a, Medical imaging
+	b, Satellite imaging
+	c, Text recognition
+	d, Music production
+
+
+Topic: 
+ImageFiltering
+6. What is the term for a small matrix of numbers used to modify the values of pixels in an image?
+	a, Filter
+	b, Histogram
+	c, Kernel
+	d, Palette
+7. Which of the following is not a commonly used type of image filter?
+	a, Gaussian filter
+	b, Median filter
+	c, Low-pass filter
+	d, High-pass filter
+8. Which of the following is not a commonly used edge detection operator?
+	a, Sobel operator
+	b, Laplacian operator
+	c, Gradient operator
+	d, Median operator
+9. What is the term for the process of reducing noise in an image?
+	a, Sharpening
+	b, Blurring
+	c, Smoothing
+	d, Compression
+10. Which of the following is not a type of image segmentation?
+	a, Edge detection
+	b, Thresholding
+	c, Region growing
+	d, Histogram equalization
+
+
+Topic: 
+ImageCompression
+11. Which of the following is not a commonly used image compression algorithm?
+	a, JPEG
+	b, PNG
+	c, GIF
+	d, MPEG
+12. What is the term for the process of removing redundant information from an image to reduce its size?
+	a, Sampling
+	b, Quantization
+	c, Compression
+	d, Encryption
+13. Which of the following is not a commonly used lossy compression technique?
+	a, Discrete cosine transform (DCT)
+	b, Wavelet transform
+	c, Run-length encoding
+	d, Huffman coding
+14. Which of the following is not a commonly used lossless compression technique?
+	a, Lempel-Ziv-Welch (LZW) encoding
+	b, Arithmetic coding
+	c, Burrows-Wheeler Transform (BWT)
+	d, Discrete cosine transform (DCT)
+
+Topic: 
+ObjectRecognition
+15. What is the term for the process of identifying and locating objects within an image?
+	a, Object detection
+	b, Object recognition
+	c, Object segmentation
+	d, Object tracking
+16. Which of the following is not a commonly used object recognition technique?
+	a, Template matching
+	b, Feature extraction
+	c, Neural networks
+	d, Histogram equalization
+17. Which of the following is not a commonly used feature descriptor?
+	a, Histogram of Oriented Gradients (HOG)
+	b, Scale-Invariant Feature Transform (SIFT)
+	c, Speeded Up Robust Feature (SURF)
+	d, Mean Shift Algorithm
+18. Which of the following is not a commonly used object detection algorithm?
+	a, YOLO (You Only Look Once)
+	b, R-CNN (Region-based Convolutional Neural Network)
+	c, SSD (Single Shot Detector)
+	d, PCA (Principal Component Analysis)
+19. Which of the following is not a commonly used dataset for object recognition research?
+	a, COCO (Common Objects in Context)
+	b, ImageNet
+	c, CIFAR-10
+	d, Microsoft Office
+20. Which of the following is not a commonly used object tracking algorithm?
+	a, Kalman filter
+	b, Particle filter
+	c, Mean Shift Algorithm
+	d, Singular Value Decomposition (SVD)
+

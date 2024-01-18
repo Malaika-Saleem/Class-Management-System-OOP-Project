@@ -1,0 +1,42 @@
+1. What is an array?
+	a, A data structure that stores a collection of elements of the same type
+	b, A type of loop used in programming
+	c, A programming language
+	d, A network of computers
+
+
+2. What is the index of the first element in an array?
+	a, 0
+	b, 1
+	c, -1
+	d, It depends on the programming language
+
+
+3. What is the time complexity of accessing an element in an array?
+	a, O(1)
+	b, O(n)
+	c, O(log n)
+	d, O(n^2)
+
+
+16. What is a binary tree?
+	a, A tree data structure in which each node has at most two children
+	b, A type of loop used in programming
+	c, Both a and b
+	d, None of the above
+
+
+17. What is the height of a tree?
+	a, The maximum number of edges in a path from the root to a leaf node
+	b, The minimum number of edges in a path from the root to a leaf node
+	c, The total number of nodes in the tree
+	d, The total number of edges in the tree
+
+
+18. What is a binary search tree?
+	a, A binary tree in which the left subtree of a node contains only nodes with keys less than the node's key, and the right subtree contains only nodes with keys greater than the node's key
+	b, A binary tree in which every node has at most two children
+	c, A binary tree in which every level is completely filled
+	d, A binary tree in which every leaf node is at the same level
+
+

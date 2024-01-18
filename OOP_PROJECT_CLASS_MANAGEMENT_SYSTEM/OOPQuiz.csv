@@ -1,0 +1,105 @@
+6. Which keyword is used to indicate that a class is derived from another class in C++?
+	a, extends
+	b, inherits
+	c, derived
+	d, none of the above
+
+
+7. Which of the following is not a type of inheritance in C++?
+	a, Single
+	b, Multiple
+	c, Hierarchical
+	d, Complex
+
+
+8. Which keyword is used to access the base class members in a derived class in C++?
+	a, this
+	b, base
+	c, super
+	d, none of the above
+
+
+9. Which of the following is not true about virtual functions in C++?
+	a, Virtual functions are used to achieve runtime polymorphism
+	b, Virtual functions can be defined in the base class
+	c,dabfac4, Virtual functions cannot be overridden in the derived class
+	d, Virtual functions can be called using a pointer or reference to the base class
+
+
+10. Which of the following is the correct syntax for creating a derived class in C++?
+	a, class DerivedClass : public BaseClass { };
+	b, class DerivedClass extends BaseClass { };
+	c, class DerivedClass : extends BaseClass { };
+	d, snone of the above
+
+
+11. Which of the following is not an example of polymorphism in C++?
+	a, Function Overloading
+	b, Operator Overloading
+	c, Method Overloading
+	d, None of the above
+
+
+12. Which of the following is not true about function overloading in C++?
+	a, Function overloading is a type of compile-time polymorphism
+	b, Function overloading allows a function to have multiple definitions with different parameters
+	c, Function overloading requires the same return type for all the overloaded functions
+	d, None of the above
+
+
+13. Which of the following is not true about operator overloading in C++?
+	a, Operator overloading allows operators to be used with user-defined data types
+	b, Operator overloading is a type of compile-time polymorphism
+	c, Operator overloading can change the meaning of an operator when used with a user-defined data type
+	d, None of the above
+
+
+14. Which of the following is not true about dynamic polymorphism in C++?
+	a, Dynamic polymorphism is also called runtime polymorphism
+	b, Dynamic polymorphism is achieved using virtual functions
+	c, Dynamic polymorphism requires the use of inheritance
+	d, Dynamic polymorphism allows a derived class to override a base class's virtual function
+
+
+15. Which keyword is used to override a virtual function in a derived class in C++?
+	a, override
+	b, virtual
+	c, super
+	d, none of the above
+
+
+16. Which of the following is not true about encapsulation in C++?
+	a, Encapsulation is the process of hiding the implementation details of an object from the outside world
+	b, Encapsulation is achieved using access specifiers such as private, protected, and public
+	c, Encapsulation allows data to be accessed directly from outside the class
+	d, None of the above
+
+
+17. Which access specifier allows data members to be accessed only within the class in C++?
+	a, private
+	b, protected
+	c, public
+	d, none of the above
+
+
+18. Which access specifier allows data members to be accessed within the class and its derived classes in C++?
+	a, private
+	b, protected
+	c, public
+	d, none of the above 
+
+
+19. Which access specifier allows data members to be accessed from outside the class in C++?
+	a, private
+	b, protected
+	c, public
+	d, none of the above
+
+
+20. Which of the following is not a benefit of encapsulation in C++?
+	a, Encapsulation provides data security by hiding the implementation details of an object
+	b, Encapsulation makes the code easier to maintain and modify
+	c, Encapsulation provides better performance by allowing direct access to data members
+	d, Encapsulation improves code reusability by creating modular code
+
+

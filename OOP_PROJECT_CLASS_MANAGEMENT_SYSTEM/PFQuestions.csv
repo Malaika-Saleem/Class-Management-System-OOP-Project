@@ -1,0 +1,111 @@
+Topic: 
+BasicConceptsofC++
+1. Which of the following is a correct syntax for a C++ program?
+	a, main() { }
+	b, main() { return 0; }
+	c, int main() { }
+	d, int main() { return 0; }
+2. Which of the following is used to input data from the user in C++?
+	a, cin
+	b, cout
+	c, printf
+	d, scanf
+3. Which of the following is used to output data in C++?
+	a ,cin
+	b ,cout
+	c, printf
+	d ,scanf
+4. What is the maximum number of characters that can be stored in a C++ string?
+	a ,256
+	b ,512
+	c ,1024
+	d ,There is no fixed limit
+5. Which of the following is a correct way to declare a variable in C++?
+	a ,variable int x;
+	b ,int x;
+	c ,x = int;
+	d ,declare x as int;
+	
+Topic: 
+ControlStructuresinC++
+6. Which of the following is not a control structure in C++?
+	a ,if-else
+	b ,for
+	c ,while
+	d ,switch
+7. Which of the following is the correct syntax for the if-else statement in C++?
+	a ,if (condition) statement;
+	b ,if (condition) statement; else statement;
+	c ,if condition then statement;
+	d ,if then statement else statement;
+8. Which f the following loop statements is used when the number of iterations is known beforehand?
+	a ,for loop
+	b ,while loop
+	c ,do-while loop
+	d, switch statement
+9. Which of the following loop statements is used when the number of iterations is not known beforehand?
+	a ,for loop
+	b ,while loop
+	c ,do-while loop
+	d, switch statement
+10. Which of the following statements is used to break out of a loop in C++?
+	a ,stop
+	b ,continue
+	c ,exit
+	d ,break
+Topic: 
+FunctionsinC++
+11. Which of the following is not a part of a function definition in C++?
+	a ,Function name
+	b ,Return type
+	c ,Function body
+	d ,Parameter names
+12. Which of the following statements is used to call a function in C++?
+	a ,function_name;
+	b ,function_name();
+	c ,call function_name;
+	d ,function_name call;
+13. Which of the following types of functions does not return any value in C++?
+	a ,void function
+	b ,int function
+	c ,double function
+	d ,char function
+14. Which of the following is a user-defined function in C++?
+	a ,cout
+	b, printf
+	c ,scanf
+	d ,sqrt
+15. Which of the following statements is used to pass arguments to a function in C++?
+	a ,Arguments are not required in C++
+	b ,Arguments are passed using parentheses ()
+	c ,Arguments are passed using square brackets []
+	d, Arguments are passed using angle brackets <>
+	
+Topic:
+ArraysinC++
+16. What is an array in C++?
+	a, A collection of variables of different data types
+	b, A collection of variables of the same data type
+	c, A function that returns multiple values
+	d, A loop that executes multiple times
+17. How do you declare an array in C++?
+	a, array x[];
+	b, int x[];
+	c, x = array[];
+	d, array[x];
+18. What is the index of the first element in an array in C++?
+	a, 0
+	b, 1
+	c, -1
+	d,It depends on the size of the array
+19. How do you access the elements of an array in C++?
+	a, By using the index of the element in square brackets []
+	b, By using the name of the array
+	c, By using the value of the element
+	d, By using the size of the array
+20. Which of the following statements is used to find the size of an array in C++?
+	a, size(array)
+	b, length(array)
+	c, sizeof(array)
+	d, lengthof(array)
+
